@@ -1,2 +1,2 @@
 # Toolbelt
-handy portable tools for foothold work.
+handy portable tools for foothold, privesc and pivoting.
